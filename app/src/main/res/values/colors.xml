@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#FFFFFF</color>
+    <color name="app_theme_color_grey">#414B57</color>
+    <color name="color_light_grey">#E0E0E0</color>
+    <color name="bg_color_home_screen">#F2F2F2</color>
+    <color name="color_books_bg">#FFF9C4</color>
+    <color name="color_green">#5CA731</color>
+    <color name="color_black_with_opacity">#60000000</color>
+</resources>

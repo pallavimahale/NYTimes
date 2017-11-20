@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_home"
+        android:title="@string/menu_item_home"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_books"
+        android:enabled="true"
+        android:icon="@drawable/ic_menu_books"
+        android:title="@string/menu_item_books"
+        app:showAsAction="ifRoom"/>
+</menu>

@@ -1,0 +1,17 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">NYTimes</string>
+
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_books">Books</string>
+    <string name="top_story_title">Top Stories</string>
+    <string name="best_seller_title">Best Sellers Books</string>
+
+    <string name="book_rank"> Rank %d</string>
+    <string name="search_category_title">Search By Category</string>
+    <string name="history_title">History</string>
+    <string name="done_title">Done</string>
+    <string name="category_dialog_title">Select Category</string>
+    <string name="fetching_data">Fetching data...</string>
+    <string name="book_category">Combined Print and E-Book Fiction</string>
+
+</resources>
